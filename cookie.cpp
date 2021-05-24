@@ -4,7 +4,7 @@ using namespace std;
 int main(void) {
 	// your code goes here
 	int t;
-	scanf("%d",&t);
+	cin>>t;
 	while(t--)
 	{
 	    int n,flag=1;
